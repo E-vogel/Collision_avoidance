@@ -52,7 +52,6 @@ rectangle('Position',[-L -L 2*L 2*L],'EdgeColor','w')
 daspect([1 1 1])
 axis([-L L -L L])
 axis off
-yohaku
 
 t = 0;
 msg = "Time: " + t;
